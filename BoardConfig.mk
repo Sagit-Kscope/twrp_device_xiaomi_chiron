@@ -25,7 +25,6 @@
 # *not* include it on all devices, so it is safe even with hardware-specific
 # components.
 
-DEVICE_PATH := device/xiaomi/chiron
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
